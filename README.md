@@ -1,6 +1,6 @@
 # leaflet-challenge
 
-Special thanks to TA Drew for providing guidance through his speedruns.
+Special thanks to TA Drew for providing guidance through his speedruns. Special thanks as well to Kourt for advice to refine the legend.
 
 # Leaflet-Part-1
 
